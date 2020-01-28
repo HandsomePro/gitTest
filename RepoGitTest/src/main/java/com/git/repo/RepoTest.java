@@ -8,4 +8,8 @@ public class RepoTest {
 		System.out.println("This is not a drill!");
 		System.out.println("This is not a drill!");
 	}
+
+	public void add() {
+		int i = 0;
+	}
 }
